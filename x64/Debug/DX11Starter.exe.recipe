@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>C:\Users\Rohit Kaushik\Documents\Classwork\Fall 2020\IGME-540\Final Project\final_project_rk\x64\Debug\DX11Starter.exe</ProjectOutputs>
+  <ContentFiles>C:\Users\Rohit Kaushik\Documents\Classwork\Fall 2020\IGME-540\Final Project\final_project_rk\x64\Debug\VertexShader.cso;C:\Users\Rohit Kaushik\Documents\Classwork\Fall 2020\IGME-540\Final Project\final_project_rk\x64\Debug\PostProcessPS.cso;C:\Users\Rohit Kaushik\Documents\Classwork\Fall 2020\IGME-540\Final Project\final_project_rk\x64\Debug\PostProcessVS.cso;C:\Users\Rohit Kaushik\Documents\Classwork\Fall 2020\IGME-540\Final Project\final_project_rk\x64\Debug\ShadowMapVS.cso;C:\Users\Rohit Kaushik\Documents\Classwork\Fall 2020\IGME-540\Final Project\final_project_rk\x64\Debug\SkyPS.cso;C:\Users\Rohit Kaushik\Documents\Classwork\Fall 2020\IGME-540\Final Project\final_project_rk\x64\Debug\SkyVS.cso;C:\Users\Rohit Kaushik\Documents\Classwork\Fall 2020\IGME-540\Final Project\final_project_rk\x64\Debug\PixelShader.cso</ContentFiles>
+  <SatelliteDlls></SatelliteDlls>
+  <NonRecipeFileRefs></NonRecipeFileRefs>
+</Project>

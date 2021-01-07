@@ -1,0 +1,19 @@
+﻿  compilation object save succeeded; see C:\Users\Rohit Kaushik\Documents\Classwork\Fall 2020\IGME-540\Final Project\final_project_rk\x64\Debug\VertexShader.cso
+  compilation object save succeeded; see C:\Users\Rohit Kaushik\Documents\Classwork\Fall 2020\IGME-540\Final Project\final_project_rk\x64\Debug\PostProcessPS.cso
+  compilation object save succeeded; see C:\Users\Rohit Kaushik\Documents\Classwork\Fall 2020\IGME-540\Final Project\final_project_rk\x64\Debug\PostProcessVS.cso
+  compilation object save succeeded; see C:\Users\Rohit Kaushik\Documents\Classwork\Fall 2020\IGME-540\Final Project\final_project_rk\x64\Debug\ShadowMapVS.cso
+  compilation object save succeeded; see C:\Users\Rohit Kaushik\Documents\Classwork\Fall 2020\IGME-540\Final Project\final_project_rk\x64\Debug\SkyPS.cso
+  compilation object save succeeded; see C:\Users\Rohit Kaushik\Documents\Classwork\Fall 2020\IGME-540\Final Project\final_project_rk\x64\Debug\SkyVS.cso
+  compilation object save succeeded; see C:\Users\Rohit Kaushik\Documents\Classwork\Fall 2020\IGME-540\Final Project\final_project_rk\x64\Debug\PixelShader.cso
+  Camera.cpp
+  DXCore.cpp
+  Entity.cpp
+  Game.cpp
+  Main.cpp
+  Material.cpp
+  Mesh.cpp
+  SimpleShader.cpp
+  SkyBox.cpp
+  Transform.cpp
+  Generating Code...
+  DX11Starter.vcxproj -> C:\Users\Rohit Kaushik\Documents\Classwork\Fall 2020\IGME-540\Final Project\final_project_rk\x64\Debug\DX11Starter.exe
